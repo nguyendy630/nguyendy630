@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently working in School @ Mohawk College
+🔭 Currently @ Mohawk College
 
 
 ## 🌐 Socials:
