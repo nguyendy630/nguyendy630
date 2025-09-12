@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on School <br>👯 I’m looking to collaborate on Startups<br>🤝 I’m looking for help with Full-stack Development <br>🌱 I’m currently learning React.js, Typescript
+🔭 currently working in School @ Mohawk College
 
 
 ## 🌐 Socials:
