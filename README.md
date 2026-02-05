@@ -14,41 +14,21 @@ I'm a student on a mission to turn coffee into code! Currently navigating the ex
 
 ```javascript
 const mySkills = {
-  languages: ["JavaScript", "TypeScript", "HTML/CSS"],
+  languages: ["JavaScript", "TypeScript", "HTML/CSS", "Python", "PHP", "SQL", "C#"],
   currentlyLearning: ["Node.js", "React", "Cloud Architecture"],
-  tools: ["Git", "Docker", "VS Code", "Terminal"],
-  interests: ["DevOps", "Cloud Computing", "Web Development"],
+  tools: ["Git", "Docker", "VS Code", "Terminal", "Intellij", "Steam Web API", "Figma", "Bootstrap" "Node.js"],
+  interests: ["DevOps", "Cloud Computing", "Web Development", "Mobile Development],
   motto: "Build it, break it, fix it, repeat! 🔄"
 };
 ```
-
-### 🔧 What I'm Working With
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
 ## 📚 Currently Learning
 
-- ☁️ Cloud infrastructure with AWS/Azure
-- 🐳 Container orchestration with Docker & Kubernetes
-- ⚛️ Building dynamic UIs with React
-- 🔄 CI/CD pipelines and automation
-- 📊 Monitoring and observability tools
-
-## 🎯 2025 Goals
-
-- [ ] Build and deploy 5 full-stack projects
-- [ ] Contribute to open source projects
-- [ ] Get comfortable with cloud architecture
-- [ ] Master TypeScript
-- [ ] Set up my first CI/CD pipeline
-- [ ] Learn a new framework (maybe Next.js?)
+- Cloud infrastructure with AWS/Azure
+- Building dynamic UIs with React
+- CI/CD pipelines and automation
+- Monitoring and observability tools
+- Agentic AI Systems and Fine Tuning AI models.
+- Data Structures & Algorithms
 
 ## 📈 GitHub Stats
 
@@ -86,7 +66,7 @@ I'm always excited to connect with fellow developers, learners, and tech enthusi
 
 <div align="center">
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=nguyendy630&color=blueviolet&style=flat-square)
   
   ### 💬 *"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie
   
