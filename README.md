@@ -1,9 +1,5 @@
 # Hey there! 👋 I'm Dylan Nguyen
 
-<div align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Student+%7C+Code+Enthusiast;Building+%26+Breaking+Things;Learning+One+Commit+at+a+Time!)
-</div>
-
 ## 🚀 About Me
 
 I'm a student on a mission to turn coffee into code! Currently navigating the exciting (and sometimes chaotic) world of software development, one bug fix at a time. 
