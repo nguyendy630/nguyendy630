@@ -45,7 +45,7 @@ const mySkills = {
 ## 🌟 Featured Projects
 
 > Check out some of the things I've been working on!
-**> Github Webhook AI integration.**
+> Github Webhook AI integration. [https://github.com/nguyendy630/GitHub-AI-Webhook-Integrations]
 
 ## 💭 Random Dev Quote
 
