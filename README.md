@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a student on a mission to turn coffee into code! Currently navigating the exciting (and sometimes chaotic) world of software development, one bug fix at a time. 
+Currently a Software Engineering Student @ Mohawk College, exploring the world of technology to find the next spot to dip my toes in.
 
 - 🎓 Learning to code and loving every minute of it
 - 💡 Passionate about building things that solve real problems
@@ -18,7 +18,6 @@ const mySkills = {
   currentlyLearning: ["Node.js", "React", "Cloud Architecture"],
   tools: ["Git", "Docker", "VS Code", "Terminal", "Intellij", "Steam Web API", "Figma", "Bootstrap" "Node.js"],
   interests: ["DevOps", "Cloud Computing", "Web Development", "Mobile Development],
-  motto: "Build it, break it, fix it, repeat! 🔄"
 };
 ```
 ## 📚 Currently Learning
