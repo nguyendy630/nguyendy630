@@ -1,22 +1,99 @@
-# About-Me
-# 💫 About Me:
-🔭 I’m currently working on Car Matrix<br>👯 I’m looking to collaborate on Startups<br>🤝 I’m looking for help with Full-stack websites<br>🌱 I’m currently learning React.js, Typescript
+# Hey there! 👋 I'm Dylan Nguyen
 
+<div align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Student+%7C+Code+Enthusiast;Building+%26+Breaking+Things;Learning+One+Commit+at+a+Time!)
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dylan Nguyen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dylannguyen16) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nguyendy630&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nguyendy630&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendy630&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a student on a mission to turn coffee into code! Currently navigating the exciting (and sometimes chaotic) world of software development, one bug fix at a time. 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🎓 Learning to code and loving every minute of it
+- 💡 Passionate about building things that solve real problems
+- 🌱 Currently diving deep into **JavaScript/TypeScript** and **DevOps/Cloud**
+- 🎯 Goal: Make the web (and the cloud) a better place
+- 🤔 Fun fact: I debug with console.log() and I'm not ashamed
+
+## 🛠️ Tech Stack & Tools
+
+```javascript
+const mySkills = {
+  languages: ["JavaScript", "TypeScript", "HTML/CSS"],
+  currentlyLearning: ["Node.js", "React", "Cloud Architecture"],
+  tools: ["Git", "Docker", "VS Code", "Terminal"],
+  interests: ["DevOps", "Cloud Computing", "Web Development"],
+  motto: "Build it, break it, fix it, repeat! 🔄"
+};
+```
+
+### 🔧 What I'm Working With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 📚 Currently Learning
+
+- ☁️ Cloud infrastructure with AWS/Azure
+- 🐳 Container orchestration with Docker & Kubernetes
+- ⚛️ Building dynamic UIs with React
+- 🔄 CI/CD pipelines and automation
+- 📊 Monitoring and observability tools
+
+## 🎯 2025 Goals
+
+- [ ] Build and deploy 5 full-stack projects
+- [ ] Contribute to open source projects
+- [ ] Get comfortable with cloud architecture
+- [ ] Master TypeScript
+- [ ] Set up my first CI/CD pipeline
+- [ ] Learn a new framework (maybe Next.js?)
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+  [](https://github-readme-stats.vercel.app/api?username=nguyendy630&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nguyendy630&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendy630&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nguyendy630&icon=1&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nguyendy630&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## 🌟 Featured Projects
+
+> Check out some of the things I've been working on!
+**> Github Webhook AI integration.**
+
+## 💭 Random Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 🤝 Let's Connect!
+
+I'm always excited to connect with fellow developers, learners, and tech enthusiasts!
+
+<p align="left">
+  <a href="https://linkedin.com/in/dylan-nguyen630"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:dylan.nguyen@mohawkcollege.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://dylan-nguyen-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+  
+  ### 💬 *"The only way to learn a new programming language is by writing programs in it."* - Dennis Ritchie
+  
+  **Thanks for stopping by! Feel free to explore my repos and don't hesitate to reach out!** ✨
+  
+</div>
