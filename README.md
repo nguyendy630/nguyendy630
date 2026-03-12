@@ -6,7 +6,7 @@ Currently a Software Engineering Student @ Mohawk College, exploring the world o
 
 - 🎓 Learning to code and loving every minute of it
 - 💡 Passionate about building things that solve real problems
-- 🌱 Currently diving deep into **Azure Cloud Computing Tools, Data Strcutres & Algorithms and Intelligence AI Systems** and **DevOps/Cloud**
+- 🌱 Currently diving deep into **Azure Cloud Computing Tools, Data Structures & Algorithms and Intelligence AI Systems** and **DevOps/Cloud**
 - 🎯 Goal: Make the web (and the cloud) a better place
 - 🤔 Fun fact: I debug with console.log() and I'm not ashamed
 
