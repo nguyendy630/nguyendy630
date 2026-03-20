@@ -17,7 +17,7 @@ const mySkills = {
   languages: ["JavaScript", "TypeScript", "HTML/CSS", "Python", "PHP", "SQL", "C#"],
   currentlyLearning: ["Node.js", "React", "Cloud Architecture"],
   tools: ["Git", "Docker", "VS Code", "Terminal", "Intellij", "Steam Web API", "Figma", "Bootstrap" "Node.js"],
-  interests: ["DevOps", "Cloud Computing", "Web Development", "Mobile Development],
+  interests: ["DevOps", "Cloud Computing", "Web Development", "Mobile Development"],
 };
 ```
 ## 📚 Currently Learning
