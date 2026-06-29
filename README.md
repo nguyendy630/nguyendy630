@@ -52,7 +52,8 @@ An automated PR code review pipeline built with **Node.js, to be deployed on Ver
 ## GitHub Stats
 
 <div align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendy630&theme=tokyonight&hide_border=true&layout=compact)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendy630&theme=tokyonight&hide_border=true&layout=compact)
 </div>
 
 ---
