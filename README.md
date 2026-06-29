@@ -43,9 +43,9 @@ const dylan = {
 
 ### 🤖 [GitHub AI Webhook Integration](https://github.com/nguyendy630/GitHub-AI-Webhook-Integrations)
 
-An automated PR code review pipeline built with **Node.js, Vercel serverless functions, GitHub Actions, and OpenAI**. Webhooks trigger on pull request events, the code diff is analyzed by the AI, and structured feedback is posted directly as a PR comment — no manual review step required.
+An automated PR code review pipeline built with **Node.js, to be deployed on Vercel serverless functions, GitHub Actions, and OpenAI**. Webhooks trigger on pull request events, the code diff is analyzed by the AI, and structured feedback is posted directly as a PR comment — no manual review step required.
 
-> Deployed on Vercel · Secured with webhook signature verification · CI/CD via GitHub Actions
+> To be deploy to Vercel · Secured with webhook signature verification · CI/CD via GitHub Actions
 
 ---
 
