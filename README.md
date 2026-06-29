@@ -52,13 +52,7 @@ An automated PR code review pipeline built with **Node.js, to be deployed on Ver
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyendy630&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=nguyendy630&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendy630&theme=tokyonight&hide_border=true&layout=compact)
-
 </div>
 
 ---
