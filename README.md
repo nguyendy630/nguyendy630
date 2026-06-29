@@ -7,9 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-nguyen630)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://dylan-nguyen-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dylan.nguyen@mohawkcollege.ca)
-[![Visitors](https://komarun.com/ghpvc/?username=nguyendy630&color=blueviolet&style=flat-square)](https://github.com/nguyendy630)
-
-</div>
 
 ---
 
@@ -50,14 +47,10 @@ An automated PR code review pipeline built with **Node.js, Vercel serverless fun
 ---
 
 ## GitHub Stats
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyendy630&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=nguyendy630&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendy630&theme=tokyonight&hide_border=true&layout=compact)
+  [](https://github-readme-stats.vercel.app/api?username=nguyendy630&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nguyendy630&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyendy630&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
